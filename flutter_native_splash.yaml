@@ -1,0 +1,13 @@
+flutter_native_splash:
+  color: "#FFC700"
+  image: images/logo.jpg
+  color_dark: "#FFC700"
+  image_dark: images/logo.jpg
+
+  android_12:
+    image: images/logo.jpg
+    icon_background_color: "#FFC700"
+    image_dark: images/logo.jpg
+    icon_background_color_dark: "#FFC700"
+
+  web: false
